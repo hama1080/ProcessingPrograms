@@ -10,3 +10,6 @@ Reference: [rosettacode](https://rosettacode.org/wiki/Fractal_tree)
 ## Game of Life
 ![lifegame_gif](https://github.com/hmhm903/ProcessingPrograms/blob/master/lifegame/lifegame.gif)  
 Reference: [wikipedia](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
+
+## Growing Lines
+![growing_lines_gif](https://github.com/hmhm903/ProcessingPrograms/blob/master/growingLines/growingLines.gif)  
